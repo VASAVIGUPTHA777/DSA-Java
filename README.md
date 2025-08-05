@@ -1,2 +1,2 @@
 # DSA-Java
-My 11 weeks DSA in java 
+My DSA journey in java 
